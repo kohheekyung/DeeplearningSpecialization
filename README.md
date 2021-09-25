@@ -9,4 +9,4 @@ This project consists of assignments from coursera deep learning specialization 
 - Sequence Models
 
 ### Certificate
-<img src="https://github.com/kohheekyung/DeeplearningSpecialization/blob/main/certificate/certificate.png">
+<img src="https://github.com/kohheekyung/DeeplearningSpecialization/blob/main/certificate/certificate.png" width="400">
